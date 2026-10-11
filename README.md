@@ -1,11 +1,11 @@
 # Inverse-Kinematics-Robot-Gesture-ARM
 A course lab project.
 
-<img src="./videos/arm.jpg" alt="Robot arm setup" width="200"> <img src="./videos/control.png" alt="Robot arm setup" width="200"> <img src="./videos/demo.png" alt="Robot arm setup" width="200"> <img src="./videos/coordinate.png" alt="Robot arm setup" width="200"> <img src="./videos/Spherical_with_grid.svg.png" alt="Robot arm setup" width="200"> <img src="./videos/trajectory.png" alt="Robot arm setup" width="200"> 
-
 <video width="400" controls>
   <source src="./b293a466d7596babbb78964984078bba_raw.mp4" type="video/mp4">
 </video>
+
+<img src="./videos/arm.jpg" alt="Robot arm setup" width="200"> <img src="./videos/control.png" alt="Robot arm setup" width="200"> <img src="./videos/demo.png" alt="Robot arm setup" width="200"> <img src="./videos/coordinate.png" alt="Robot arm setup" width="200"> <img src="./videos/Spherical_with_grid.svg.png" alt="Robot arm setup" width="200"> <img src="./videos/trajectory.png" alt="Robot arm setup" width="200"> 
 
 <video width="400" controls>
   <source src="./videos/直线移动.mp4" type="video/mp4">
