@@ -4,7 +4,7 @@ A course lab project.
 <img src="./videos/arm.jpg" alt="Robot arm setup" width="200"> <img src="./videos/control.png" alt="Robot arm setup" width="200"> <img src="./videos/demo.png" alt="Robot arm setup" width="200"> <img src="./videos/coordinate.png" alt="Robot arm setup" width="200"> <img src="./videos/Spherical_with_grid.svg.png" alt="Robot arm setup" width="200"> <img src="./videos/trajectory.png" alt="Robot arm setup" width="200"> 
 
 <video width="400" controls>
-  <source src="./videos/b293a466d7596babbb78964984078bba_raw.mp4" type="video/mp4">
+  <source src="./b293a466d7596babbb78964984078bba_raw.mp4" type="video/mp4">
 </video>
 
 <video width="400" controls>
@@ -12,7 +12,7 @@ A course lab project.
 </video>
 
 <video width="400" controls>
-  <source src="./videos/微信视频2026-04-29_043447_006.mp4" type="video/mp4">
+  <source src="./微信视频2026-04-29_043447_006.mp4" type="video/mp4">
 </video>
 
 For our project, we also designed an alternative robotic arm solution. This design features a robotic arm capable of pulling the robot forward. While it offers greater flexibility as an advantage, it comes with notable drawbacks: limited output force and low positioning accuracy due to the constraints of Lego building blocks. Ultimately, this solution failed to meet the practical operational requirements.
