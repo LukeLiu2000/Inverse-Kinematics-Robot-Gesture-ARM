@@ -7,7 +7,7 @@ A course lab project.
 <video width="400" controls>
   <source src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/b293a466d7596babbb78964984078bba_raw.mp4" type="video/mp4">
 </video>
-
+<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/VideoCapture.png" alt="Robot arm setup" width="800"> 
 [Download main demo video](https://github.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/raw/main/b293a466d7596babbb78964984078bba_raw.mp4)
 
 ### Linear Motion Demo
@@ -27,13 +27,10 @@ A course lab project.
 ## Images
 
 ### Setup and Control
-<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/arm.jpg" alt="Robot arm setup" width="250"> 
-<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/control.png" alt="Control interface" width="250"> 
-<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/demo.png" alt="Demo screenshot" width="250">
+<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/arm.jpg" alt="Robot arm setup" width="250"> <img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/control.png" alt="Control interface" width="250"> <img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/demo.png" alt="Demo screenshot" width="250">
 
 ### Technical Diagrams
-<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/coordinate.png" alt="Coordinate system" width="300"> 
-<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/Spherical_with_grid.svg.png" alt="Spherical coordinate system" width="300">
+<img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/coordinate.png" alt="Coordinate system" width="300"> <img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/Spherical_with_grid.svg.png" alt="Spherical coordinate system" width="300">
 
 ### Trajectory Visualization
 <img src="https://raw.githubusercontent.com/LukeLiu2000/Inverse-Kinematics-Robot-Gesture-ARM/main/videos/trajectory.png" alt="Trajectory visualization" width="400">
